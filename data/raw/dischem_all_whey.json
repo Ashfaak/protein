@@ -132,17 +132,6 @@
     "in_stock": true
   },
   {
-    "name": "Tony Ferguson Whey Protein 840g Straw",
-    "brand": "tony ferguson",
-    "price": 699.99,
-    "original_price": 699.99,
-    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-840g-straw-097",
-    "sku": "000000000000470097",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557142007_619d9e1c9c73e610a96c1034ca5db48d.jpg",
-    "weight": "0.540000",
-    "in_stock": true
-  },
-  {
     "name": "Tony Ferguson Whey Protein 840g Van",
     "brand": "tony ferguson",
     "price": 699.99,
@@ -161,6 +150,17 @@
     "url": "https://www.dischem.co.za/tferg-whey-protein-420g-choc-170",
     "sku": "000000000000471170",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141949_2d67c4a6d4edee9fcaf32959cb025d87.jpg",
+    "weight": "0.540000",
+    "in_stock": true
+  },
+  {
+    "name": "Tony Ferguson Whey Protein 840g Straw",
+    "brand": "tony ferguson",
+    "price": 699.99,
+    "original_price": 699.99,
+    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-840g-straw-097",
+    "sku": "000000000000470097",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557142007_619d9e1c9c73e610a96c1034ca5db48d.jpg",
     "weight": "0.540000",
     "in_stock": true
   },
@@ -352,17 +352,6 @@
     "in_stock": true
   },
   {
-    "name": "Evox Whey Protein Advanced 2kg / Assorted",
-    "brand": null,
-    "price": 0.0,
-    "original_price": 0.0,
-    "url": "https://www.dischem.co.za/catalog/category/view/id/16555",
-    "sku": null,
-    "image": "",
-    "weight": "",
-    "in_stock": true
-  },
-  {
     "name": "Biogen Grass Fed Whey Protein 750g Assorted",
     "brand": null,
     "price": 0.0,
@@ -380,6 +369,17 @@
     "original_price": 0.0,
     "url": "https://www.dischem.co.za/catalog/category/view/id/14901",
     "sku": "",
+    "image": "",
+    "weight": "",
+    "in_stock": true
+  },
+  {
+    "name": "Evox Whey Protein Advanced 2kg / Assorted",
+    "brand": null,
+    "price": 0.0,
+    "original_price": 0.0,
+    "url": "https://www.dischem.co.za/catalog/category/view/id/16555",
+    "sku": null,
     "image": "",
     "weight": "",
     "in_stock": true
