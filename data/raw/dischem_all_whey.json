@@ -46,7 +46,7 @@
   {
     "name": "Biogen Iso Whey 1.5kg",
     "brand": "biogen pro series",
-    "price": 1007.99,
+    "price": 1259.99,
     "original_price": 1399.99,
     "url": "https://www.dischem.co.za/biogen-iso-whey-1-5kg-122",
     "sku": "289122;;;;000000000289122002",
@@ -90,7 +90,7 @@
   {
     "name": "NPL Platinum Whey Plus 2kg",
     "brand": "npl",
-    "price": 640.79,
+    "price": 800.99,
     "original_price": 889.99,
     "url": "https://www.dischem.co.za/npl-platinum-whey-plus-2kg-424",
     "sku": "390424;;;;000000000390424001",
@@ -118,6 +118,17 @@
     "sku": "186896;;;;000000000186896003",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/2/62a3425c25d82_6009544909279.jpg",
     "weight": "0.030000",
+    "in_stock": true
+  },
+  {
+    "name": "Tony Ferguson Whey Protein 840g Straw",
+    "brand": "tony ferguson",
+    "price": 699.99,
+    "original_price": 699.99,
+    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-840g-straw-097",
+    "sku": "000000000000470097",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557142007_619d9e1c9c73e610a96c1034ca5db48d.jpg",
+    "weight": "0.540000",
     "in_stock": true
   },
   {
@@ -150,17 +161,6 @@
     "url": "https://www.dischem.co.za/tferg-whey-protein-420g-choc-170",
     "sku": "000000000000471170",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141949_2d67c4a6d4edee9fcaf32959cb025d87.jpg",
-    "weight": "0.540000",
-    "in_stock": true
-  },
-  {
-    "name": "Tony Ferguson Whey Protein 840g Straw",
-    "brand": "tony ferguson",
-    "price": 699.99,
-    "original_price": 699.99,
-    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-840g-straw-097",
-    "sku": "000000000000470097",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557142007_619d9e1c9c73e610a96c1034ca5db48d.jpg",
     "weight": "0.540000",
     "in_stock": true
   },
@@ -233,8 +233,8 @@
   {
     "name": "USN Blue Lab 100% Whey 908g",
     "brand": "usn",
-    "price": 551.99,
-    "original_price": 689.99,
+    "price": 849.99,
+    "original_price": 849.99,
     "url": "https://www.dischem.co.za/usn-blue-lab-100-whey-908g-098",
     "sku": "178098;;;;000000000178098002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544902522_1912ad791d568ce401f02c79963d4021.jpg",
@@ -286,17 +286,6 @@
     "in_stock": true
   },
   {
-    "name": "Myprotein Clear Whey 20 Serv",
-    "brand": "myprotein",
-    "price": 849.99,
-    "original_price": 849.99,
-    "url": "https://www.dischem.co.za/myprotein-clear-whey-20-serv-706",
-    "sku": "454706;;;;000000000454706001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5056281177721_299bb9b22de36b12be6a849bfa2e6dfe.jpg",
-    "weight": "0.260000",
-    "in_stock": true
-  },
-  {
     "name": "Primal Whey Isolate 750g",
     "brand": "primal",
     "price": 899.99,
@@ -305,6 +294,17 @@
     "sku": "417047;;;;000000000417047001",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009551936374.jpg",
     "weight": "0.930000",
+    "in_stock": true
+  },
+  {
+    "name": "Myprotein Clear Whey 20 Serv",
+    "brand": "myprotein",
+    "price": 849.99,
+    "original_price": 849.99,
+    "url": "https://www.dischem.co.za/myprotein-clear-whey-20-serv-706",
+    "sku": "454706;;;;000000000454706001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5056281177721_299bb9b22de36b12be6a849bfa2e6dfe.jpg",
+    "weight": "0.260000",
     "in_stock": true
   },
   {
@@ -352,6 +352,17 @@
     "in_stock": true
   },
   {
+    "name": "Evox Whey Protein Advanced 2kg / Assorted",
+    "brand": null,
+    "price": 0.0,
+    "original_price": 0.0,
+    "url": "https://www.dischem.co.za/catalog/category/view/id/16555",
+    "sku": null,
+    "image": "",
+    "weight": "",
+    "in_stock": true
+  },
+  {
     "name": "Biogen Grass Fed Whey Protein 750g Assorted",
     "brand": null,
     "price": 0.0,
@@ -369,17 +380,6 @@
     "original_price": 0.0,
     "url": "https://www.dischem.co.za/catalog/category/view/id/14901",
     "sku": "",
-    "image": "",
-    "weight": "",
-    "in_stock": true
-  },
-  {
-    "name": "Evox Whey Protein Advanced 2kg / Assorted",
-    "brand": null,
-    "price": 0.0,
-    "original_price": 0.0,
-    "url": "https://www.dischem.co.za/catalog/category/view/id/16555",
-    "sku": null,
     "image": "",
     "weight": "",
     "in_stock": true
@@ -448,6 +448,17 @@
     "sku": "205312;;;;000000000205312003",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544922391.jpg",
     "weight": "2.100000",
+    "in_stock": true
+  },
+  {
+    "name": "USN Blue Lab 100% Whey 900g",
+    "brand": "usn",
+    "price": 969.99,
+    "original_price": 969.99,
+    "url": "https://www.dischem.co.za/usn-blue-lab-100-whey-900g-675",
+    "sku": "210675;;;;000000000210675001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544919780_182a1c9a9991d50831ab3fdc8ccd6efa.jpg",
+    "weight": "1.110000",
     "in_stock": true
   },
   {
@@ -605,6 +616,17 @@
     "in_stock": true
   },
   {
+    "name": "Muscletech Nitro-tech Whey Gold",
+    "brand": "muscle tech",
+    "price": 1199.99,
+    "original_price": 1199.99,
+    "url": "https://www.dischem.co.za/muscletech-nitro-tech-whey-gold-477",
+    "sku": "181477;;;;000000000181477001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/650431d5289c2_631656710441.jpg",
+    "weight": "1.390000",
+    "in_stock": true
+  },
+  {
     "name": "Muscletech Nitrotech Whey Gold 2.27kg",
     "brand": "muscle tech",
     "price": 2149.99,
@@ -613,17 +635,6 @@
     "sku": "211799;;;;000000000211799002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6504470e0780c_631656710519.jpg",
     "weight": "10.650000",
-    "in_stock": true
-  },
-  {
-    "name": "Muscletech Nitro-tech Whey Gold",
-    "brand": "muscle tech",
-    "price": 1199.99,
-    "original_price": 1199.99,
-    "url": "https://www.dischem.co.za/muscletech-nitro-tech-whey-gold-477",
-    "sku": "181477;;;;000000000181477002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/65043326a3d98_631656710458.jpg",
-    "weight": "1.400000",
     "in_stock": true
   },
   {
@@ -739,7 +750,7 @@
   {
     "name": "Primal Casein Protein 750g",
     "brand": "primal",
-    "price": 359.99,
+    "price": 449.99,
     "original_price": 499.99,
     "url": "https://www.dischem.co.za/primal-casein-protein-750g-723",
     "sku": "416723;;;;000000000416723001",
@@ -816,7 +827,7 @@
   {
     "name": "Futurelife High Protein Pouch Meal",
     "brand": "futurelife",
-    "price": 17.09,
+    "price": 18.99,
     "original_price": 18.99,
     "url": "https://www.dischem.co.za/futurelife-high-protein-pouch-meal-516",
     "sku": "000000000000291516",
@@ -1727,17 +1738,6 @@
     "in_stock": false
   },
   {
-    "name": "Myprotein Whey 1kg Strawberry",
-    "brand": "myprotein",
-    "price": 434.95,
-    "original_price": 434.95,
-    "url": "https://www.dischem.co.za/myprotein-whey-1kg-strawberry",
-    "sku": "000000000166933001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302835.jpg",
-    "weight": "",
-    "in_stock": false
-  },
-  {
     "name": "Myprotein Whey 1kg Vanilla",
     "brand": "myprotein",
     "price": 434.95,
@@ -1745,6 +1745,17 @@
     "url": "https://www.dischem.co.za/myprotein-whey-1kg-vanilla",
     "sku": "000000000166933002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302934_2d681a07c97b9c17eba0d42f8bc7c268.jpg",
+    "weight": "",
+    "in_stock": false
+  },
+  {
+    "name": "Myprotein Whey 1kg Strawberry",
+    "brand": "myprotein",
+    "price": 434.95,
+    "original_price": 434.95,
+    "url": "https://www.dischem.co.za/myprotein-whey-1kg-strawberry",
+    "sku": "000000000166933001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302835.jpg",
     "weight": "",
     "in_stock": false
   },
