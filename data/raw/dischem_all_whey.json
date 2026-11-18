@@ -222,8 +222,8 @@
   {
     "name": "USN Blue Lab 100% Whey 908g",
     "brand": "usn",
-    "price": 679.99,
-    "original_price": 849.99,
+    "price": 551.99,
+    "original_price": 689.99,
     "url": "https://www.dischem.co.za/usn-blue-lab-100-whey-908g-098",
     "sku": "178098;;;;000000000178098002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544902522_1912ad791d568ce401f02c79963d4021.jpg",
@@ -616,17 +616,6 @@
     "in_stock": true
   },
   {
-    "name": "Muscletech Nitrotech Whey Gold 2.27kg",
-    "brand": "muscle tech",
-    "price": 1719.99,
-    "original_price": 2149.99,
-    "url": "https://www.dischem.co.za/muscletech-nitrotech-whey-gold-2-27kg-799",
-    "sku": "211799;;;;000000000211799002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6504470e0780c_631656710519.jpg",
-    "weight": "10.650000",
-    "in_stock": true
-  },
-  {
     "name": "Muscletech Nitro-tech Whey Gold",
     "brand": "muscle tech",
     "price": 1199.99,
@@ -635,6 +624,17 @@
     "sku": "181477;;;;000000000181477002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/65043326a3d98_631656710458.jpg",
     "weight": "1.400000",
+    "in_stock": true
+  },
+  {
+    "name": "Muscletech Nitrotech Whey Gold 2.27kg",
+    "brand": "muscle tech",
+    "price": 1719.99,
+    "original_price": 2149.99,
+    "url": "https://www.dischem.co.za/muscletech-nitrotech-whey-gold-2-27kg-799",
+    "sku": "211799;;;;000000000211799002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6504470e0780c_631656710519.jpg",
+    "weight": "10.650000",
     "in_stock": true
   },
   {
@@ -918,8 +918,8 @@
     "price": 1199.99,
     "original_price": 1199.99,
     "url": "https://www.dischem.co.za/muscletech-nitro-tech-performance-856",
-    "sku": "153856;;;;000000000153856003",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6509799322021_631656703276-22.jpg",
+    "sku": "153856;;;;000000000153856002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/3/631656703269.jpg",
     "weight": "1.160000",
     "in_stock": true
   },
@@ -1067,17 +1067,6 @@
     "in_stock": true
   },
   {
-    "name": "Optimum Gold Stand Casein 2lbs",
-    "brand": "optimum nutrition",
-    "price": 1199.99,
-    "original_price": 1199.99,
-    "url": "https://www.dischem.co.za/optimum-gold-stand-casein-2lbs-904",
-    "sku": "153904;;;;000000000153904002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5060469989884.jpg",
-    "weight": "0.909000",
-    "in_stock": true
-  },
-  {
     "name": "Proteins",
     "brand": null,
     "price": 0.0,
@@ -1108,6 +1097,17 @@
     "sku": null,
     "image": "",
     "weight": "",
+    "in_stock": true
+  },
+  {
+    "name": "Optimum Gold Stand Casein 2lbs",
+    "brand": "optimum nutrition",
+    "price": 1199.99,
+    "original_price": 1199.99,
+    "url": "https://www.dischem.co.za/optimum-gold-stand-casein-2lbs-904",
+    "sku": "153904;;;;000000000153904002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5060469989884.jpg",
+    "weight": "0.909000",
     "in_stock": true
   },
   {
