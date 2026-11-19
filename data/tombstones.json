@@ -1023,5 +1023,40 @@
     "delisted_date": "17 Nov 2026",
     "in_stock": false,
     "status": "delisted"
+  },
+  "dischem_190883;;;;000000000190883002": {
+    "id": "dischem_190883;;;;000000000190883002",
+    "retailer": "Dis-Chem",
+    "brand": "NPL",
+    "title": "NPL 100% Whey Protein Isolate 1.5kg",
+    "product_line": "NPL 100% Whey Isolate",
+    "type": "Whey Isolate",
+    "flavor": "Classic (Vanilla / Chocolate)",
+    "container_size_g": 1500.0,
+    "serving_size_g": 32.0,
+    "scoop_size_g": 32.0,
+    "protein_per_serving_g": 23.0,
+    "protein_percentage": 71.9,
+    "carbs_g": 2.8,
+    "fat_g": 1.6,
+    "price_zar": 1529.99,
+    "cost_per_g_protein_zar": 1.45,
+    "diaas_score": 1.3,
+    "diaas_rating": "\ud83c\udfc6 Elite (130%)",
+    "diaas_category": "Pure Whey Isolate (WPI)",
+    "pdcaas_score": 1.0,
+    "quality_summary": "Exceeds FAO reference standard (130% DIAAS) for all indispensable amino acids, high leucine (~11-12%), ultra-low lactose.",
+    "url": "https://www.dischem.co.za/npl-100-whey-protein-isolate-1-5kg-883",
+    "ingredients": "Cold-Filtered Whey Protein Blend [Whey Protein Concentrate, Whey Protein Isolate, Whey Protein Hydrolysate], Cocoa Powder, Flavouring, Stabilisers, DigeZyme\u00ae Multi-Enzyme Complex (Alpha-Amylase, Neutral Protease, Lactase, Lipase, Cellulase), Non-Nutritive Sweetener (Sucralose).",
+    "internal_archetype": "lean_purity",
+    "standout_metric": {
+      "label": "Ultra Purity",
+      "value": "72% Protein (23.0g / 32.0g)",
+      "icon": "fa-solid fa-bolt",
+      "badge_class": "badge-archetype-purity"
+    },
+    "delisted_date": "19 Nov 2026",
+    "in_stock": false,
+    "status": "delisted"
   }
 }
