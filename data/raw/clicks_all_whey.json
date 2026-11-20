@@ -80,18 +80,18 @@
     "clicks_3_for_2_eligible": false
   },
   {
-    "title": "Bluelab 100% Premium Whey Chocolate 908g",
-    "brand": "USN",
-    "price": 692.0,
-    "url": "https://clicks.co.za/usn_bluelab-100-premium-whey-chocolate-908g/p/278845",
+    "title": "Premium Whey Protein Peanut Butter 1Kg",
+    "brand": "Nutritech",
+    "price": 550.0,
+    "url": "https://clicks.co.za/nutritech_premium-whey-protein-peanut-butter-1kg/p/272374",
     "retailer": "Clicks",
     "clicks_3_for_2_eligible": false
   },
   {
-    "title": "Bluelab 100% Premium Whey Strawberry 908g",
+    "title": "Bluelab 100% Premium Whey Chocolate 908g",
     "brand": "USN",
     "price": 692.0,
-    "url": "https://clicks.co.za/usn_bluelab-100-premium-whey-strawberry-908g/p/278846",
+    "url": "https://clicks.co.za/usn_bluelab-100-premium-whey-chocolate-908g/p/278845",
     "retailer": "Clicks",
     "clicks_3_for_2_eligible": false
   },
@@ -128,6 +128,14 @@
     "clicks_3_for_2_eligible": false
   },
   {
+    "title": "Bluelab 100% Premium Whey Strawberry 908g",
+    "brand": "USN",
+    "price": 692.0,
+    "url": "https://clicks.co.za/usn_bluelab-100-premium-whey-strawberry-908g/p/278846",
+    "retailer": "Clicks",
+    "clicks_3_for_2_eligible": false
+  },
+  {
     "title": "Bluelab 100% Premium Whey Vanilla 908g",
     "brand": "USN",
     "price": 692.0,
@@ -140,14 +148,6 @@
     "brand": "USN",
     "price": 399.0,
     "url": "https://clicks.co.za/usn_blue-lab-premium-whey-chocolate-454g/p/286200",
-    "retailer": "Clicks",
-    "clicks_3_for_2_eligible": false
-  },
-  {
-    "title": "Premium Whey Protein Peanut Butter 1Kg",
-    "brand": "Nutritech",
-    "price": 550.0,
-    "url": "https://clicks.co.za/nutritech_premium-whey-protein-peanut-butter-1kg/p/272374",
     "retailer": "Clicks",
     "clicks_3_for_2_eligible": false
   },

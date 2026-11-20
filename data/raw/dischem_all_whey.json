@@ -121,17 +121,6 @@
     "in_stock": true
   },
   {
-    "name": "Tony Ferguson Whey Protein 420g Straw",
-    "brand": "tony ferguson",
-    "price": 399.99,
-    "original_price": 399.99,
-    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-420g-straw-096",
-    "sku": "000000000000470096",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141956_f6e8c3159b961ff4a4d16126d09bddf4.jpg",
-    "weight": "0.540000",
-    "in_stock": true
-  },
-  {
     "name": "Tony Ferguson Whey Protein 840g Choc",
     "brand": "tony ferguson",
     "price": 699.99,
@@ -172,6 +161,17 @@
     "url": "https://www.dischem.co.za/tferg-whey-protein-420g-choc-170",
     "sku": "000000000000471170",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141949_2d67c4a6d4edee9fcaf32959cb025d87.jpg",
+    "weight": "0.540000",
+    "in_stock": true
+  },
+  {
+    "name": "Tony Ferguson Whey Protein 420g Straw",
+    "brand": "tony ferguson",
+    "price": 399.99,
+    "original_price": 399.99,
+    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-420g-straw-096",
+    "sku": "000000000000470096",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141956_f6e8c3159b961ff4a4d16126d09bddf4.jpg",
     "weight": "0.540000",
     "in_stock": true
   },
@@ -412,8 +412,8 @@
     "price": 849.99,
     "original_price": 849.99,
     "url": "https://www.dischem.co.za/myprotein-clear-whey-20-serv-706",
-    "sku": "454706;;;;000000000454706001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5056281177721_299bb9b22de36b12be6a849bfa2e6dfe.jpg",
+    "sku": "454706;;;;000000000454706002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5056281177738_bfd172f55efff4756b9304189bb8cda7.jpg",
     "weight": "0.260000",
     "in_stock": true
   },
@@ -616,17 +616,6 @@
     "in_stock": true
   },
   {
-    "name": "Muscletech Nitro-tech Whey Gold",
-    "brand": "muscle tech",
-    "price": 1199.99,
-    "original_price": 1199.99,
-    "url": "https://www.dischem.co.za/muscletech-nitro-tech-whey-gold-477",
-    "sku": "181477;;;;000000000181477001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/650431d5289c2_631656710441.jpg",
-    "weight": "1.390000",
-    "in_stock": true
-  },
-  {
     "name": "Muscletech Nitrotech Whey Gold 2.27kg",
     "brand": "muscle tech",
     "price": 1719.99,
@@ -635,6 +624,17 @@
     "sku": "211799;;;;000000000211799002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6504470e0780c_631656710519.jpg",
     "weight": "10.650000",
+    "in_stock": true
+  },
+  {
+    "name": "Muscletech Nitro-tech Whey Gold",
+    "brand": "muscle tech",
+    "price": 1199.99,
+    "original_price": 1199.99,
+    "url": "https://www.dischem.co.za/muscletech-nitro-tech-whey-gold-477",
+    "sku": "181477;;;;000000000181477001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/650431d5289c2_631656710441.jpg",
+    "weight": "1.390000",
     "in_stock": true
   },
   {
@@ -1322,8 +1322,8 @@
   {
     "name": "Nestle Nan Special Pro Extra Comfort 3 800g",
     "brand": "nan",
-    "price": 409.99,
-    "original_price": 409.99,
+    "price": 394.99,
+    "original_price": 394.99,
     "url": "https://www.dischem.co.za/nestle-nan-special-pro-extra-comfort-3-800g-741",
     "sku": "000000000000417741",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/8/4/8445290272539_d2d41fbc94925d9a681c7e74c91fb402.jpg",
@@ -1540,17 +1540,6 @@
     "in_stock": true
   },
   {
-    "name": "Replace Diabetic 400g",
-    "brand": "replace",
-    "price": 318.99,
-    "original_price": 318.99,
-    "url": "https://www.dischem.co.za/replace-diabetic-400g-304",
-    "sku": "332304;;;;000000000332304001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009710511367_1_a43df97a90cfc1aca77ec246c337c87d.jpg",
-    "weight": "0.480000",
-    "in_stock": true
-  },
-  {
     "name": "Clinique Smart Custom Repair Eye Treatment 15ml",
     "brand": "clinique",
     "price": 1055.0,
@@ -1559,6 +1548,17 @@
     "sku": "000000000000191878",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/1/61f959704e666_192333102749.jpg",
     "weight": "0.054000",
+    "in_stock": true
+  },
+  {
+    "name": "Replace Diabetic 400g",
+    "brand": "replace",
+    "price": 318.99,
+    "original_price": 318.99,
+    "url": "https://www.dischem.co.za/replace-diabetic-400g-304",
+    "sku": "332304;;;;000000000332304001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009710511367_1_a43df97a90cfc1aca77ec246c337c87d.jpg",
+    "weight": "0.480000",
     "in_stock": true
   },
   {
@@ -1738,6 +1738,17 @@
     "in_stock": false
   },
   {
+    "name": "Myprotein Impact Whey 1kg Chocolate Peanut Butter",
+    "brand": "myprotein",
+    "price": 434.95,
+    "original_price": 434.95,
+    "url": "https://www.dischem.co.za/myprotein-impact-whey-1kg-chocolate-peanut-butter",
+    "sku": "000000000166933003",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534326121.jpg",
+    "weight": "",
+    "in_stock": false
+  },
+  {
     "name": "Myprotein Whey Isolate 1kg Strawberry",
     "brand": "myprotein",
     "price": 599.95,
@@ -1756,17 +1767,6 @@
     "url": "https://www.dischem.co.za/myprotein-whey-1kg-vanilla",
     "sku": "000000000166933002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302934_2d681a07c97b9c17eba0d42f8bc7c268.jpg",
-    "weight": "",
-    "in_stock": false
-  },
-  {
-    "name": "Myprotein Impact Whey 1kg Chocolate Peanut Butter",
-    "brand": "myprotein",
-    "price": 434.95,
-    "original_price": 434.95,
-    "url": "https://www.dischem.co.za/myprotein-impact-whey-1kg-chocolate-peanut-butter",
-    "sku": "000000000166933003",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534326121.jpg",
     "weight": "",
     "in_stock": false
   },
@@ -1892,28 +1892,6 @@
     "in_stock": false
   },
   {
-    "name": "Medidrink Pulmo Strawberry 200ml",
-    "brand": "medidrink",
-    "price": 92.99,
-    "original_price": 92.99,
-    "url": "https://www.dischem.co.za/medidrink-pulmo-strawberry-200ml-530",
-    "sku": "000000000000464530",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112660_a2c1fbfc7e36bafd4b27f0bfacd248db.jpg",
-    "weight": "0.000000",
-    "in_stock": false
-  },
-  {
-    "name": "Medidrink Pulmo Vanilla 200ml",
-    "brand": "medidrink",
-    "price": 92.99,
-    "original_price": 92.99,
-    "url": "https://www.dischem.co.za/medidrink-pulmo-vanilla-200ml-487",
-    "sku": "000000000000464487",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112707_7b9fafb5691fae22ad962c4886d44de7.jpg",
-    "weight": "0.220000",
-    "in_stock": false
-  },
-  {
     "name": "Medidrink Pulmo Chocolate 200ml",
     "brand": "medidrink",
     "price": 92.99,
@@ -1932,6 +1910,28 @@
     "url": "https://www.dischem.co.za/medidrink-platinum-strawberry-200ml-485",
     "sku": "000000000000464485",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112929_be8ff1fd7f21e88bef60a45ddc3fd446.jpg",
+    "weight": "0.220000",
+    "in_stock": false
+  },
+  {
+    "name": "Medidrink Pulmo Strawberry 200ml",
+    "brand": "medidrink",
+    "price": 92.99,
+    "original_price": 92.99,
+    "url": "https://www.dischem.co.za/medidrink-pulmo-strawberry-200ml-530",
+    "sku": "000000000000464530",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112660_a2c1fbfc7e36bafd4b27f0bfacd248db.jpg",
+    "weight": "0.000000",
+    "in_stock": false
+  },
+  {
+    "name": "Medidrink Pulmo Vanilla 200ml",
+    "brand": "medidrink",
+    "price": 92.99,
+    "original_price": 92.99,
+    "url": "https://www.dischem.co.za/medidrink-pulmo-vanilla-200ml-487",
+    "sku": "000000000000464487",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112707_7b9fafb5691fae22ad962c4886d44de7.jpg",
     "weight": "0.220000",
     "in_stock": false
   },
