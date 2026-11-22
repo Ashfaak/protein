@@ -121,17 +121,6 @@
     "in_stock": true
   },
   {
-    "name": "Tony Ferguson Whey Protein 840g Straw",
-    "brand": "tony ferguson",
-    "price": 699.99,
-    "original_price": 699.99,
-    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-840g-straw-097",
-    "sku": "000000000000470097",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557142007_619d9e1c9c73e610a96c1034ca5db48d.jpg",
-    "weight": "0.540000",
-    "in_stock": true
-  },
-  {
     "name": "Tony Ferguson Whey Protein 840g Van",
     "brand": "tony ferguson",
     "price": 699.99,
@@ -139,6 +128,17 @@
     "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-840g-van-099",
     "sku": "000000000000470099",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557142014_5ce19250cf134e8c6493fcd0a268340a.jpg",
+    "weight": "0.540000",
+    "in_stock": true
+  },
+  {
+    "name": "Tferg Whey Protein 420g Choc",
+    "brand": "tony ferguson",
+    "price": 399.99,
+    "original_price": 399.99,
+    "url": "https://www.dischem.co.za/tferg-whey-protein-420g-choc-170",
+    "sku": "000000000000471170",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141949_2d67c4a6d4edee9fcaf32959cb025d87.jpg",
     "weight": "0.540000",
     "in_stock": true
   },
@@ -154,13 +154,13 @@
     "in_stock": true
   },
   {
-    "name": "Tferg Whey Protein 420g Choc",
+    "name": "Tony Ferguson Whey Protein 840g Straw",
     "brand": "tony ferguson",
-    "price": 399.99,
-    "original_price": 399.99,
-    "url": "https://www.dischem.co.za/tferg-whey-protein-420g-choc-170",
-    "sku": "000000000000471170",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141949_2d67c4a6d4edee9fcaf32959cb025d87.jpg",
+    "price": 699.99,
+    "original_price": 699.99,
+    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-840g-straw-097",
+    "sku": "000000000000470097",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557142007_619d9e1c9c73e610a96c1034ca5db48d.jpg",
     "weight": "0.540000",
     "in_stock": true
   },
@@ -341,6 +341,17 @@
     "in_stock": true
   },
   {
+    "name": "Evox Whey Protein Advanced 2kg / Assorted",
+    "brand": null,
+    "price": 0.0,
+    "original_price": 0.0,
+    "url": "https://www.dischem.co.za/catalog/category/view/id/16555",
+    "sku": null,
+    "image": "",
+    "weight": "",
+    "in_stock": true
+  },
+  {
     "name": "Biogen Grass Fed Whey Protein 750g Assorted",
     "brand": null,
     "price": 0.0,
@@ -368,17 +379,6 @@
     "price": 0.0,
     "original_price": 0.0,
     "url": "https://www.dischem.co.za/catalog/category/view/id/17198",
-    "sku": null,
-    "image": "",
-    "weight": "",
-    "in_stock": true
-  },
-  {
-    "name": "Evox Whey Protein Advanced 2kg / Assorted",
-    "brand": null,
-    "price": 0.0,
-    "original_price": 0.0,
-    "url": "https://www.dischem.co.za/catalog/category/view/id/16555",
     "sku": null,
     "image": "",
     "weight": "",
@@ -698,8 +698,8 @@
     "price": 1299.99,
     "original_price": 1299.99,
     "url": "https://www.dischem.co.za/myprotein-impact-whey-1kg-181",
-    "sku": "168181;;;;000000000168181001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302675_9fac17e1146210bb07ee43fd8b7f0fc4.jpg",
+    "sku": "168181;;;;000000000168181002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302934_2d681a07c97b9c17eba0d42f8bc7c268.jpg",
     "weight": "1.040000",
     "in_stock": true
   },
@@ -907,8 +907,8 @@
     "price": 1199.99,
     "original_price": 1199.99,
     "url": "https://www.dischem.co.za/muscletech-nitro-tech-performance-856",
-    "sku": "153856;;;;000000000153856003",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6509799322021_631656703276-22.jpg",
+    "sku": "153856;;;;000000000153856002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/3/631656703269.jpg",
     "weight": "1.160000",
     "in_stock": true
   },
@@ -924,17 +924,6 @@
     "in_stock": true
   },
   {
-    "name": "Muscletech Nitro Tech Ripped 908g",
-    "brand": "muscle tech",
-    "price": 1299.99,
-    "original_price": 1299.99,
-    "url": "https://www.dischem.co.za/muscletech-nitro-tech-ripped-908g-404",
-    "sku": "220404;;;;000000000220404001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/3/6371850889790_631656709452.jpg",
-    "weight": "1.070000",
-    "in_stock": true
-  },
-  {
     "name": "NPL 21 Protein Bar 65g",
     "brand": "npl",
     "price": 37.79,
@@ -943,6 +932,17 @@
     "sku": "298470;;;;000000000298470004",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009708881892_1_d9039405659c09ba1b370ed4790229f9.jpg",
     "weight": "0.040000",
+    "in_stock": true
+  },
+  {
+    "name": "Muscletech Nitro Tech Ripped 908g",
+    "brand": "muscle tech",
+    "price": 1299.99,
+    "original_price": 1299.99,
+    "url": "https://www.dischem.co.za/muscletech-nitro-tech-ripped-908g-404",
+    "sku": "220404;;;;000000000220404001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/3/6371850889790_631656709452.jpg",
+    "weight": "1.070000",
     "in_stock": true
   },
   {
@@ -1108,6 +1108,17 @@
     "sku": "153904;;;;000000000153904002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5060469989884.jpg",
     "weight": "0.909000",
+    "in_stock": true
+  },
+  {
+    "name": "Biogen Peckish Rice Cakes 60g",
+    "brand": "biogen pro series",
+    "price": 22.49,
+    "original_price": 49.99,
+    "url": "https://www.dischem.co.za/biogen-peckish-rice-cakes-60g-329",
+    "sku": "000000000000405329",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544950202_1_f0a856bedeb4943a489ec130e0a229b6.jpg",
+    "weight": "0.060000",
     "in_stock": true
   },
   {
@@ -1727,17 +1738,6 @@
     "in_stock": false
   },
   {
-    "name": "Myprotein Whey Isolate 1kg Strawberry",
-    "brand": "myprotein",
-    "price": 599.95,
-    "original_price": 599.95,
-    "url": "https://www.dischem.co.za/myprotein-whey-isolate-1kg-strawberry",
-    "sku": "000000000166932002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534303061.jpg",
-    "weight": "",
-    "in_stock": false
-  },
-  {
     "name": "Myprotein Whey 1kg Strawberry",
     "brand": "myprotein",
     "price": 434.95,
@@ -1749,17 +1749,6 @@
     "in_stock": false
   },
   {
-    "name": "Myprotein Whey 1kg Vanilla",
-    "brand": "myprotein",
-    "price": 434.95,
-    "original_price": 434.95,
-    "url": "https://www.dischem.co.za/myprotein-whey-1kg-vanilla",
-    "sku": "000000000166933002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302934_2d681a07c97b9c17eba0d42f8bc7c268.jpg",
-    "weight": "",
-    "in_stock": false
-  },
-  {
     "name": "Myprotein Impact Whey 1kg Chocolate Peanut Butter",
     "brand": "myprotein",
     "price": 434.95,
@@ -1767,6 +1756,28 @@
     "url": "https://www.dischem.co.za/myprotein-impact-whey-1kg-chocolate-peanut-butter",
     "sku": "000000000166933003",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534326121.jpg",
+    "weight": "",
+    "in_stock": false
+  },
+  {
+    "name": "Myprotein Whey Isolate 1kg Strawberry",
+    "brand": "myprotein",
+    "price": 599.95,
+    "original_price": 599.95,
+    "url": "https://www.dischem.co.za/myprotein-whey-isolate-1kg-strawberry",
+    "sku": "000000000166932002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534303061.jpg",
+    "weight": "",
+    "in_stock": false
+  },
+  {
+    "name": "Myprotein Whey 1kg Vanilla",
+    "brand": "myprotein",
+    "price": 434.95,
+    "original_price": 434.95,
+    "url": "https://www.dischem.co.za/myprotein-whey-1kg-vanilla",
+    "sku": "000000000166933002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/0/5055534302934_2d681a07c97b9c17eba0d42f8bc7c268.jpg",
     "weight": "",
     "in_stock": false
   },
@@ -1804,17 +1815,6 @@
     "in_stock": false
   },
   {
-    "name": "Biogen Peckish Rice Cakes 60g",
-    "brand": "biogen pro series",
-    "price": 22.49,
-    "original_price": 49.99,
-    "url": "https://www.dischem.co.za/biogen-peckish-rice-cakes-60g-329",
-    "sku": "000000000000405329",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544950202_1_f0a856bedeb4943a489ec130e0a229b6.jpg",
-    "weight": "0.060000",
-    "in_stock": false
-  },
-  {
     "name": "Biogen Bulk 45/150 4kg, Chocolate",
     "brand": "biogen pro series",
     "price": 476.99,
@@ -1848,6 +1848,17 @@
     "in_stock": false
   },
   {
+    "name": "Medidrink Neo Vanilla 200ml",
+    "brand": "medidrink",
+    "price": 92.99,
+    "original_price": 92.99,
+    "url": "https://www.dischem.co.za/medidrink-neo-vanilla-200ml-531",
+    "sku": "000000000000464531",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565113810_06be3855420da14ae4f7980acae70d5d.jpg",
+    "weight": "0.220000",
+    "in_stock": false
+  },
+  {
     "name": "Medidrink Gastro Strawberry 200ml",
     "brand": "medidrink",
     "price": 92.99,
@@ -1877,17 +1888,6 @@
     "url": "https://www.dischem.co.za/medidrink-neo-chocolate-200ml-547",
     "sku": "000000000000464547",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565113797_d1a28131e4ebe3b54480f794e35f9151.jpg",
-    "weight": "0.220000",
-    "in_stock": false
-  },
-  {
-    "name": "Medidrink Neo Vanilla 200ml",
-    "brand": "medidrink",
-    "price": 92.99,
-    "original_price": 92.99,
-    "url": "https://www.dischem.co.za/medidrink-neo-vanilla-200ml-531",
-    "sku": "000000000000464531",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565113810_06be3855420da14ae4f7980acae70d5d.jpg",
     "weight": "0.220000",
     "in_stock": false
   },
