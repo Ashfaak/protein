@@ -132,6 +132,17 @@
     "in_stock": true
   },
   {
+    "name": "Tferg Whey Protein 420g Choc",
+    "brand": "tony ferguson",
+    "price": 399.99,
+    "original_price": 399.99,
+    "url": "https://www.dischem.co.za/tferg-whey-protein-420g-choc-170",
+    "sku": "000000000000471170",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141949_2d67c4a6d4edee9fcaf32959cb025d87.jpg",
+    "weight": "0.540000",
+    "in_stock": true
+  },
+  {
     "name": "Tony Ferguson Whey Protein 840g Straw",
     "brand": "tony ferguson",
     "price": 699.99,
@@ -154,13 +165,13 @@
     "in_stock": true
   },
   {
-    "name": "Tferg Whey Protein 420g Choc",
+    "name": "Tony Ferguson Whey Protein 420g Straw",
     "brand": "tony ferguson",
     "price": 399.99,
     "original_price": 399.99,
-    "url": "https://www.dischem.co.za/tferg-whey-protein-420g-choc-170",
-    "sku": "000000000000471170",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141949_2d67c4a6d4edee9fcaf32959cb025d87.jpg",
+    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-420g-straw-096",
+    "sku": "000000000000470096",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141956_f6e8c3159b961ff4a4d16126d09bddf4.jpg",
     "weight": "0.540000",
     "in_stock": true
   },
@@ -172,17 +183,6 @@
     "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-420g-van-098",
     "sku": "000000000000470098",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141963_5b263d675f4e03008b83c64f8707fb4b.jpg",
-    "weight": "0.540000",
-    "in_stock": true
-  },
-  {
-    "name": "Tony Ferguson Whey Protein 420g Straw",
-    "brand": "tony ferguson",
-    "price": 399.99,
-    "original_price": 399.99,
-    "url": "https://www.dischem.co.za/tony-ferguson-whey-protein-420g-straw-096",
-    "sku": "000000000000470096",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557141956_f6e8c3159b961ff4a4d16126d09bddf4.jpg",
     "weight": "0.540000",
     "in_stock": true
   },
@@ -473,17 +473,6 @@
     "in_stock": true
   },
   {
-    "name": "USN Blue Lab 100% Whey 900g",
-    "brand": "usn",
-    "price": 969.99,
-    "original_price": 969.99,
-    "url": "https://www.dischem.co.za/usn-blue-lab-100-whey-900g-675",
-    "sku": "210675;;;;000000000210675001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544919780_182a1c9a9991d50831ab3fdc8ccd6efa.jpg",
-    "weight": "1.110000",
-    "in_stock": true
-  },
-  {
     "name": "Biogen Iso Whey 30g Sachet",
     "brand": "biogen pro series",
     "price": 49.49,
@@ -627,17 +616,6 @@
     "in_stock": true
   },
   {
-    "name": "Muscletech Nitro-tech 100% Whey Gold",
-    "brand": "muscle tech",
-    "price": 1199.99,
-    "original_price": 1199.99,
-    "url": "https://www.dischem.co.za/muscletech-nitro-tech-100-whey-gold-792",
-    "sku": "211792;;;;000000000211792001",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6504367e652c2_631656710465.jpg",
-    "weight": "1.270000",
-    "in_stock": true
-  },
-  {
     "name": "Muscletech Nitrotech Whey Gold 2.27kg",
     "brand": "muscle tech",
     "price": 1719.99,
@@ -646,6 +624,17 @@
     "sku": "211799;;;;000000000211799002",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6504470e0780c_631656710519.jpg",
     "weight": "10.650000",
+    "in_stock": true
+  },
+  {
+    "name": "Muscletech Nitro-tech 100% Whey Gold",
+    "brand": "muscle tech",
+    "price": 1199.99,
+    "original_price": 1199.99,
+    "url": "https://www.dischem.co.za/muscletech-nitro-tech-100-whey-gold-792",
+    "sku": "211792;;;;000000000211792001",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/5/6504367e652c2_631656710465.jpg",
+    "weight": "1.270000",
     "in_stock": true
   },
   {
@@ -704,17 +693,6 @@
     "in_stock": true
   },
   {
-    "name": "USN Blue Lab Plato Whey 32g",
-    "brand": "usn",
-    "price": 47.99,
-    "original_price": 47.99,
-    "url": "https://www.dischem.co.za/usn-blue-lab-plato-whey-32g-002",
-    "sku": "000000000475282002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544968795_8b55c74fa220b9433ea27cd676773eea.jpg",
-    "weight": "0.040000",
-    "in_stock": true
-  },
-  {
     "name": "Biogen 100% Iso Whey 1.5kg",
     "brand": "biogen pro series",
     "price": 1259.99,
@@ -737,6 +715,17 @@
     "in_stock": true
   },
   {
+    "name": "USN Blue Lab Plato Whey 32g",
+    "brand": "usn",
+    "price": 47.99,
+    "original_price": 47.99,
+    "url": "https://www.dischem.co.za/usn-blue-lab-plato-whey-32g-002",
+    "sku": "000000000475282002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544968795_8b55c74fa220b9433ea27cd676773eea.jpg",
+    "weight": "0.040000",
+    "in_stock": true
+  },
+  {
     "name": "Health Connection Just Whey 450g",
     "brand": "health connection",
     "price": 399.99,
@@ -745,17 +734,6 @@
     "sku": "000000000000041442",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009614731939.jpg",
     "weight": "0.520000",
-    "in_stock": true
-  },
-  {
-    "name": "Mt Iso Whey 2lb Vanilla",
-    "brand": "muscle tech",
-    "price": 1399.99,
-    "original_price": 1399.99,
-    "url": "https://www.dischem.co.za/mt-iso-whey-2lb-vanilla-002",
-    "sku": "000000000477143002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/3/631656717594_2dae2d2d65f378b341c592dd268ec516.jpg",
-    "weight": "0.907000",
     "in_stock": true
   },
   {
@@ -781,17 +759,6 @@
     "in_stock": true
   },
   {
-    "name": "Biogen 100% Iso Whey 30g Sachet Van",
-    "brand": "biogen pro series",
-    "price": 49.49,
-    "original_price": 54.99,
-    "url": "https://www.dischem.co.za/biogen-100-iso-whey-30g-sachet-van-002",
-    "sku": "000000000189397002",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557198905_c347420aa1bcee0fcbd7d3d3d49aa0c9.jpg",
-    "weight": "0.040000",
-    "in_stock": true
-  },
-  {
     "name": "USN Blue Lab Plato Whey 32g",
     "brand": "usn",
     "price": 47.99,
@@ -799,6 +766,28 @@
     "url": "https://www.dischem.co.za/usn-blue-lab-plato-whey-32g-001",
     "sku": "000000000475282001",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009544968818_adee33ab0bb9d792bf1c5e652a86cc6b.jpg",
+    "weight": "0.040000",
+    "in_stock": true
+  },
+  {
+    "name": "Mt Iso Whey 2lb Vanilla",
+    "brand": "muscle tech",
+    "price": 1399.99,
+    "original_price": 1399.99,
+    "url": "https://www.dischem.co.za/mt-iso-whey-2lb-vanilla-002",
+    "sku": "000000000477143002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/3/631656717594_2dae2d2d65f378b341c592dd268ec516.jpg",
+    "weight": "0.907000",
+    "in_stock": true
+  },
+  {
+    "name": "Biogen 100% Iso Whey 30g Sachet Van",
+    "brand": "biogen pro series",
+    "price": 49.49,
+    "original_price": 54.99,
+    "url": "https://www.dischem.co.za/biogen-100-iso-whey-30g-sachet-van-002",
+    "sku": "000000000189397002",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/6/0/6009557198905_c347420aa1bcee0fcbd7d3d3d49aa0c9.jpg",
     "weight": "0.040000",
     "in_stock": true
   },
@@ -1958,6 +1947,17 @@
     "in_stock": false
   },
   {
+    "name": "Medidrink Neo Vanilla 200ml",
+    "brand": "medidrink",
+    "price": 92.99,
+    "original_price": 92.99,
+    "url": "https://www.dischem.co.za/medidrink-neo-vanilla-200ml-531",
+    "sku": "000000000000464531",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565113810_06be3855420da14ae4f7980acae70d5d.jpg",
+    "weight": "0.220000",
+    "in_stock": false
+  },
+  {
     "name": "Medidrink Gastro Strawberry 200ml",
     "brand": "medidrink",
     "price": 92.99,
@@ -1991,17 +1991,6 @@
     "in_stock": false
   },
   {
-    "name": "Medidrink Neo Vanilla 200ml",
-    "brand": "medidrink",
-    "price": 92.99,
-    "original_price": 92.99,
-    "url": "https://www.dischem.co.za/medidrink-neo-vanilla-200ml-531",
-    "sku": "000000000000464531",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565113810_06be3855420da14ae4f7980acae70d5d.jpg",
-    "weight": "0.220000",
-    "in_stock": false
-  },
-  {
     "name": "Medidrink Neo Forest Fruit 200ml",
     "brand": "medidrink",
     "price": 92.99,
@@ -2009,28 +1998,6 @@
     "url": "https://www.dischem.co.za/medidrink-neo-forest-fruit-200ml-546",
     "sku": "000000000000464546",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565113803_e24d2a88beb405136b1d36b6567f2c94.jpg",
-    "weight": "0.220000",
-    "in_stock": false
-  },
-  {
-    "name": "Medidrink Pulmo Chocolate 200ml",
-    "brand": "medidrink",
-    "price": 92.99,
-    "original_price": 92.99,
-    "url": "https://www.dischem.co.za/medidrink-pulmo-chocolate-200ml-488",
-    "sku": "000000000000464488",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112684_e5c80974a65ed88ad977be82211559f3.jpg",
-    "weight": "0.220000",
-    "in_stock": false
-  },
-  {
-    "name": "Medidrink Platinum Strawberry 200ml",
-    "brand": "medidrink",
-    "price": 92.99,
-    "original_price": 92.99,
-    "url": "https://www.dischem.co.za/medidrink-platinum-strawberry-200ml-485",
-    "sku": "000000000000464485",
-    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112929_be8ff1fd7f21e88bef60a45ddc3fd446.jpg",
     "weight": "0.220000",
     "in_stock": false
   },
@@ -2053,6 +2020,28 @@
     "url": "https://www.dischem.co.za/medidrink-pulmo-vanilla-200ml-487",
     "sku": "000000000000464487",
     "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112707_7b9fafb5691fae22ad962c4886d44de7.jpg",
+    "weight": "0.220000",
+    "in_stock": false
+  },
+  {
+    "name": "Medidrink Pulmo Chocolate 200ml",
+    "brand": "medidrink",
+    "price": 92.99,
+    "original_price": 92.99,
+    "url": "https://www.dischem.co.za/medidrink-pulmo-chocolate-200ml-488",
+    "sku": "000000000000464488",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112684_e5c80974a65ed88ad977be82211559f3.jpg",
+    "weight": "0.220000",
+    "in_stock": false
+  },
+  {
+    "name": "Medidrink Platinum Strawberry 200ml",
+    "brand": "medidrink",
+    "price": 92.99,
+    "original_price": 92.99,
+    "url": "https://www.dischem.co.za/medidrink-platinum-strawberry-200ml-485",
+    "sku": "000000000000464485",
+    "image": "https://www.dischem.co.za/api/klevu_images/200X200/5/9/5999565112929_be8ff1fd7f21e88bef60a45ddc3fd446.jpg",
     "weight": "0.220000",
     "in_stock": false
   },
